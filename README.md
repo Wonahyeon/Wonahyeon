@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome%20to%20Ahhyun's%20Github%20👋🏻&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=40)
-***
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonahyeon&count_bg=%23EC7EB0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=5194F0&text=Welcome%20to%20Wonah's%20Github%20👋🏻&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=40)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonahyeon&count_bg=%235194F0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white)
