@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=5194F0&text=Welcome%20to%20Wonah's%20Github%20👋🏻&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=5194F0&text=Frontend%20Developer,%20Wonah's%20Github%20🤗&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=30)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonahyeon&count_bg=%235194F0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🚀 Tech Stack
@@ -32,3 +32,9 @@
 <a href="mailto:wah10220@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
+<!-- <a href="">
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=Notion&logoColor=black"> 
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=React&logoColor=61DAFB"> 
+</a> -->
