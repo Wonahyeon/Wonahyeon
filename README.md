@@ -33,9 +33,9 @@
 <a href="mailto:wah10220@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
-<a href="https://unmarred-timer-19d.notion.site/186e9185a367470e8c1a0fce7584838f?pvs=4">
+<!-- <a href="https://unmarred-timer-19d.notion.site/186e9185a367470e8c1a0fce7584838f?pvs=4">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=Notion&logoColor=black"> 
-</a>
+</a> -->
 <!--<a href="">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=React&logoColor=61DAFB"> 
 </a> -->
